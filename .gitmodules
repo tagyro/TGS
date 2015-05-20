@@ -1,0 +1,6 @@
+[submodule "JSONModel"]
+	path = JSONModel
+	url = https://github.com/icanzilb/JSONModel.git
+[submodule "tolo"]
+	path = tolo
+	url = https://github.com/genzeb/tolo.git
